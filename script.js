@@ -110,3 +110,40 @@ document.addEventListener('DOMContentLoaded', () => {
         window.open(whatsappUrl, '_blank');
     });
 });
+        })
+        .catch(error => {
+            alert("Erro de conexão com a planilha!");
+            console.error(error);
+        });
+
+
+        // --- MONTAGEM DA MENSAGEM ---
+        // Cria a mensagem que será enviada para o WhatsApp.
+        // O `\n` cria uma nova linha. O `*` em volta do texto cria um efeito de negrito no WhatsApp.
+        const message = 
+            `Olá! 👋 Sou da Rede FEVRE e quero ganhar um curso... Poderiam me passar mais informações?.
+
+            *DADOS DO ALUNO(A):*
+            *Nome:* ${studentName}
+            *Telefone:* ${studentPhone}
+
+            *DADOS DO RESPONSÁVEL:*
+            *Nome:* ${guardianName}
+            *Telefone:* ${guardianPhone}
+
+            *INFORMAÇÕES ESCOLARES:*
+            *Turno:* ${shift}
+            *Ano/Série:* ${grade}
+
+            Aguardo mais informações!`;
+
+        // Codifica a mensagem para ser usada em uma URL (troca espaços por %20, etc.)
+        const encodedMessage = encodeURIComponent(message);
+
+        // Cria a URL final do WhatsApp
+        const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`;
+
+        // Abre a URL do WhatsApp em uma nova aba do navegador
+        window.open(whatsappUrl, '_blank');
+    });
+});
