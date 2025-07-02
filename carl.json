@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rapid-pottery-464717-m2",
+  "private_key_id": "10921305fba53a21ef2afc5d31596a0adf053d1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtZo5DHMIzTZJB\nF9U/KFnvFdvIzNXX157SOWMCkLdTOgTm2yJ5bU5dYGXZwcjsfel4wCO0alt7jSdo\nnoz3ItuRI8wQmD03pVEh9yLLOFOTzueQ4l7KrvxVODCuiD47nDoZkxEyIwIf8Iqq\nNBD4nMJAqZ9mkroo7eFtwpjddQvzEJ849nt4oHobaEPnBbQ5FYpO192iT/tYxAQA\njxaPCtEDnsmUigZVXfzgNgWDYSm0coJxp+dSVreZ3nHnp60ofckhKOW+3BoJkbUg\npeM66ebjBPc3exfB10pH7Ekxr5glYMeYc/2LbwvgYAB0TkH31ALbzQ8zvQkdMBP4\nUf8FJOcbAgMBAAECggEAFmsQ73pTXUClLQdAybaU0gVYcgCRkSNOZE2JEHbXTMpO\nge5I6bwJCqeA44NbT8ADpFnrA9NQWovoUW1WOklma8BeDLMyDvSvpZ2HAREaNRzl\n8WRi7v9qnjXyjU4OBbTwCghqi7nc93Yo51Jt80aJEsUbV66WpN4EbCVhkBgm4FjK\nRTS26aEtYc61bd8Xbhiut8YGAa1qM5UzCENig3Mf3E43CzZIa32FgLLV83+jm4Qz\nI+SBOStkdtwsW9hAfLa8a4XIyYtFW8Jrw14Ogsptk3ADsaiXE1a05zxsf9m+fWej\nJcvlWXBkw5/8QCwuLcLUCk8dxkbsPD2EeMxK/fJTCQKBgQDcC4Kj534qhbnGHejf\nx7VpN6feNTg+z140G/FIedOfc0pCJOutOKZTEU4sdzAhsCVpbT8IZSBSOKE+zfxv\nU/mxYrum1xoW8clri/aswRePvQFmUOQzjYACVrhJ6Cucr3wcc5ciuKyis1/FrBmK\n1yMXPEw3RrHxqQcZpOTOlipzRwKBgQDJu+kBw9RreOpeGqx0z6N7JMLfcF+O0tW8\nJknJpX8fc+1Wx3hKQQF5s5UStx9Sq4JYMOzPaBpWsDp5STTqOuc4NzbxRs7i0ubo\ngsXv5sYXw65UVRJxZRUD5yHRDVKaWXVYSP80CLLQgXxZ1j4CsZhsVDTLEsJSXYmc\nFH+n84vPjQKBgQDWhZIzYLgrlHtsnjQuFnDRxyStCY1wDpJ0ktlEIyEhTjCTE5OA\nKL5eNXzU9M3DygpvIcZV1OERx4vLwt3bWy8OtIblPMd+nvITGzy9ZvIle8olia8w\nYz7tCMZZpzL9akfBJR+vBgOoCt/PwtyT8vGO8YYMTaulQXhek9dNYDC6eQKBgAlW\nCfWL85O5t9b9Ewgg5+b2D5K5p6J7fWrEttt/Lj/tZImEl7uQAJp6RibklK2FxHWC\nZiM/JSDn7PzZ93nzmenPHFrUNRToP8l46+IrYvWMl8/NVBotXGie1MDRBgagpz6b\nujvVPzlJFNEvihUj1PMGfp77UkTvkUPI6xOBwPGtAoGAemiNWrcS1KCZ9SMMKMJk\nbsUfA2qUyZAqfEetlK6O3IGJ2YPqNMXvEik6jOCcYHDuUFKE/fGo0YwsvA1a6FaN\nbDfrOXQAD11pPpLcWnTY0+JNuGkBEPW06VDAVA7rz5sPX63xKuzF4/h4/jdojiJL\nr586iHwf9W4wzu5n9whIKpo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "iguinho-do-ag@rapid-pottery-464717-m2.iam.gserviceaccount.com",
+  "client_id": "100187944210571139677",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iguinho-do-ag%40rapid-pottery-464717-m2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
